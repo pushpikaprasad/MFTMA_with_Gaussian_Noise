@@ -12,7 +12,7 @@ Adversarial attacks play a key role in making robust neural networks for various
     <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/MFTMA_with_Gaussian_Noise.ipynb">MFTMA_with_Gaussian_Noise.ipynb</a></li>
   </ul>
 
-## <a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Preliminary%20research%20work.pdf">Preliminary Research work</a>
+### Download <a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Preliminary%20research%20work.pdf">Preliminary Research work</a>
 </p>
 
 
