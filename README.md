@@ -1,5 +1,3 @@
-# Manifold Analysis of Linear Separability in Deep Learning Models under Adversarial Perturbations
-
 ## Abstract
 
 <p align="justify">
