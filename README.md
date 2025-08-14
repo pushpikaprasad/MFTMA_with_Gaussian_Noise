@@ -6,12 +6,12 @@ Adversarial attacks play a key role in making robust neural networks for various
 <br><br>
 <b>Code Implementation</b>
   <ul>
-    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/ResNet18_Model_Preparation_with_CIFAR10_dataset.ipynb">ResNet18_Model_Preparation_with_CIFAR10_dataset.ipynb</a></li>
-    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Manifold_data_preparation.ipynb">Manifold_data_preparation.ipynb</a></li>
-    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/MFTMA_with_Gaussian_Noise.ipynb">MFTMA_with_Gaussian_Noise.ipynb</a></li>
+    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/ResNet18_Model_Preparation_with_CIFAR10_dataset.ipynb" target="_blank">ResNet18_Model_Preparation_with_CIFAR10_dataset.ipynb</a></li>
+    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Manifold_data_preparation.ipynb" target="_blank">Manifold_data_preparation.ipynb</a></li>
+    <li><a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/MFTMA_with_Gaussian_Noise.ipynb" target="_blank">MFTMA_with_Gaussian_Noise.ipynb</a></li>
   </ul>
 
-<br> <a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Preliminary%20research%20work.pdf">Preliminary Research work</a>
+<br> <a href="https://github.com/pushpikaprasad/MFTMA_with_Gaussian_Noise/blob/master/Preliminary%20research%20work.pdf" target="_blank">Preliminary Research work</a>
 </p>
 
 
